@@ -4,7 +4,8 @@
 
 __Description__
 
-This is my very first site that i made by using **DCI school program**
+This is my very first programming attempt of website that i made 
+by using **DCI school program**
 and **Jonas Schemdtman** course.
 
-This site is in developing phase so waitfor more ;-)
+This site is in developing phase so wait for more ;-)
