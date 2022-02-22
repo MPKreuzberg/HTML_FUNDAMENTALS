@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Formular</title>
+    <link rel="stylesheet" href="formular.css">
+</head>
+<body>
+   
+   <h1>Formular</h1>
+   
+   <form action="">
+       
+        <label>Vorname</label><br><br>
+        <input type="text" name="vorname" placeholder="Vorname" required><br><br><br>
+
+        <label>Name</label><br><br>
+        <input type="text" name="name" required><br><br><br>
+
+        <label>Nachricht</label> 
+        <textarea name="nachricht"
+        placeholder="Its not required" required></textarea><br><br><br>
+       
+        <label>Gender</label>
+        <input type="radio" name="gender" value="male" checked>
+        <label>man</label><br>
+        <input type="radio" name="gender" value="female">
+        <label>women</label><br><br>
+       
+        
+        <h2>For our newsletter press th check button</h2>
+        <input type="checkbox" name="news" id="news" checked>
+        <label for="news">Newsletter-Anmeldung</label>
+        <br><br><br>
+       
+
+        <label for="country">Choose a country:</label>
+
+            <select name="country" id="country">
+                <option value="Finland">Finland</option>
+                <option value="Italy">Italy</option>
+                <option value="France">France</option>
+                <option value="Spain">Spain</option>
+            </select><br><br><br>
+
+            <input type="color"><br>
+
+            <h2>Date</h2>
+             <input type="date"><br><br>
+
+
+            <h2>Password</h2>
+             <input type="password"><br><br>
+
+            <h2>Kontakt</h2>
+
+            <address>
+              Send us <a href="mailto:webmaster@example.com">E-mail</a><br><br>       
+       
+              
+       <input type="submit" value="Senden">       
+        
+   </form>
+    
+</body>
+</html>
