@@ -4,8 +4,11 @@
 
 __Description__
 
-This is my very first programming attempt of website that i made 
-by using **DCI school program**
+This is my very first programming attempt of website that i made after 10 days of attempting to **DCI school program**
 and **Jonas Schemdtman** course.
 
-This site is in developing phase so wait for more ;-)
+I am total beginner...
+
+I'm using VS code, and my Terminal and Git knowledge.
+
+This site grows day by day so wait for more ;-)
