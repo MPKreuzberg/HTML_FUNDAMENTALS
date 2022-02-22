@@ -8,18 +8,18 @@ li {
 }
 
 h1 {
-  font-size: 16px;
+  font-size: 46px;
 
   text-transform: uppercase;
   font-style: italic;
 }
 
 h2 {
-  font-size: 40px;
+  font-size: 20px;
 }
 
 h3 {
-  font-size: 30px;
+  font-size: 20px;
 }
 h4 {
   font-size: 20px;
@@ -30,8 +30,9 @@ h4 {
 
 p {
   font-size: 22px;
+  color: rgb(1, 71, 1);
 
-  line-height: 1.5;
+  line-height: 1.0;
 }
 li {
   font-size: 20px;
@@ -55,6 +56,6 @@ article header p {
 }
 #Hopefully {
   font-family: serif;
-  font-style: italic;
-  font-size: 44px;
+  !--font-style: italic;
+  font-size: 24px;
 }
